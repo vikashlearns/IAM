@@ -204,5 +204,33 @@ MFA requires to provide multiple form of verification before gaining access.
 
 5. Auditing - Incorporate robust auditing and monitoring mechanism to track user activities and detect anamolies or unauthorised access .
 
+Aligning IAM with business processes and objectives - 
+
+To design IAM solution that align with an org business process and objectives:
+1. Collaboration with stakeholders- Understand business processes,needs and goals (this ensures that IAM solutions support overall business strategy)
+2. Customisation - Tailor IAM solutions to fit specific workflows and requirementss.(Avoid one-size-fits-all approaches and focus on solutions 
+that enhances efficiency and security)
+3. Scalability - Design IAM solutions with scalability. (IAM system should seamlessly accommodate an increasing number of users and resources)
+4. Integration - Ensures that IAM solution integrates smoothly with existing systems and applications (This minimizes disruptions to business operations)
+5. User-centric design - Prioritise the user experience by making access management processes intuitive and user friendly. This reduces friction
+for employees and partners using IAM systems.
+
+Enhancing customer experience with IAM 
+
+1. Client portal access - IAM allows clients to register and log in to the client portal securely. 
+Each client gets a unique login , ensuring their data
+is kept separate
+2. Role based access - Clients are assigned roles that determines what information and features they can access .
+3. Single sign-on (SSO) - This means client can access the client portal without needing separate credentials 
+if they are already logged in to their org's network
+4. Access request workflow - If a client needs additional access or permissions , 
+they can submit a request through the portal . IAM routes the request to the appropriate authority for approval .
+
+
+Implementing IAM for client portal has positive outcomes :
+1. Enhanced user experience - Clients can access information and collaborate effortlessly through a user-friendly portal (increasing satisfaction)
+2. Improved Security - RBAC ensures that clients only see what's relevant to their roles, reducing the risk of unauthorised access.
+3. Efficiency - Automated access request workflows speed up the process of granting additional permissions when needed.
+
 
 
